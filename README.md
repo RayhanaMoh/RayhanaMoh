@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rayhana Mohammed
+- 👀 I’m interested in anything related to tech!
+- 🌱 I’m currently learning JAVA
